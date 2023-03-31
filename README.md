@@ -1,10 +1,28 @@
-## Hello I'm Ansh [![Telegram](https://img.shields.io/static/v1?label=Telegram&message=chat&color=990bff)](https://t.me/EvilAnsh)
+### Hi there 👋
 
-![EvilAnsh GitHub stats](https://github-readme-stats.vercel.app/api?username=EvilAnsh&count_private=true&theme=algolia&show_icons=true&include_all_commits=true&border_radius=18&border_color=FF7DA2FF&bg_color=829BE6,9582E6,FF5252)
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Hey there, I'm ꪖ​ꪀ𝘴ꫝ|邪惡的
+⁪-<b> Just a begginner and custom rom maintainer only. 
+
+<h2 align="center"><img src="https://visitor-badge.laobi.icu/badge?page_id=EvilAnsh.EvilAnsh" alt="ꪖ​ꪀ𝘴ꫝ|邪惡的"/></h>  
+
+![ꪖ​ꪀ𝘴ꫝ|邪惡的 GitHub stats](https://github-readme-stats.vercel.app/api?username=EvilAnsh&show_icons=true&theme=radical)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=EvilAnsh&theme=neon-palenight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EvilAnsh&layout=compact&theme=midnight-purple&langs_count=10)
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=EvilAnsh.EvilAnsh)
-<!---
-EvilAnsh/EvilAnsh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
----> 
+
+# 🤔 What I'm Maintaining Officially:
+## CherishOS support group for **[Realme 6/6i(Indian)/6s/7/Narzo/Narzo 20 Pro/Narzo 30 4G](https://t.me/rm6785Official)** 
+<div align="center">  
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div> 
+
+## 📫 Get in touch, just press the icon below:
+[![Telegram](https://img.shields.io/static/v1?label=Telegram&message=chat&color=990bff)](https://t.me/EvilAnsh)
+
+## ❤️ My Heart ❤️:
+
+<h3 align="left">Languages and Tools:</h3> 
+
+<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer">  
+
+<h1 align="center"><img width="100" src="https://media1.giphy.com/media/3o7WIx7urV838kHFzW/giphy.gif"></p>  
+
+![Made with love in India](https://madewithlove.now.sh/in?heart=true&template=for-the-badge)</h1>
