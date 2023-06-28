@@ -5,11 +5,8 @@
 
 <h2 align="center"><img src="https://visitor-badge.laobi.icu/badge?page_id=EvilAnsh.EvilAnsh" alt="ꪖ​ꪀ𝘴ꫝ|邪惡的"/></h>  
 
-![ꪖ​ꪀ𝘴ꫝ|邪惡的 GitHub stats](https://github-readme-stats.vercel.app/api?username=EvilAnsh&show_icons=true&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=EvilAnsh&theme=neon-palenight&hide_border=true)
-
 # 🤔 What I'm Maintaining Officially:
-## CherishOS support group for **[Realme 6/6i(Indian)/6s/7/Narzo/Narzo 20 Pro/Narzo 30 4G](https://t.me/AnshBuilds)** 
+## Support group for **[Realme 6/6i(Indian)/6s/7/Narzo/Narzo 20 Pro/Narzo 30 4G](https://t.me/AnshBuilds)** 
 <div align="center">  
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div> 
