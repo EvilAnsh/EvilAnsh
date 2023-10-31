@@ -1,6 +1,5 @@
-### Hi there 👋
-
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Hey there, I'm ꪖ​ꪀ𝘴ꫝ|邪惡的
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+## Hey there, I'm ꪖ​ꪀ𝘴ꫝ|邪惡的
 ⁪-<b> Just a begginner and custom rom maintainer only. 
 
 <h2 align="center"><img src="https://visitor-badge.laobi.icu/badge?page_id=EvilAnsh.EvilAnsh" alt="ꪖ​ꪀ𝘴ꫝ|邪惡的"/></h>  
