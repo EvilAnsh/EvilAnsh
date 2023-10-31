@@ -1,10 +1,9 @@
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 ## Hey there, I'm ꪖ​ꪀ𝘴ꫝ|邪惡的
 ⁪-<b> Just a begginner and custom rom maintainer only. 
 
 <h2 align="center"><img src="https://visitor-badge.laobi.icu/badge?page_id=EvilAnsh.EvilAnsh" alt="ꪖ​ꪀ𝘴ꫝ|邪惡的"/></h>  
 
-# 🤔 What I'm Maintaining Officially:
+# 🤔 What I'm Maintaining :
 ## Support group for **[Realme 6/6i(Indian)/6s/7/Narzo/Narzo 20 Pro/Narzo 30 4G](https://t.me/AnshBuilds)** 
 <div align="center">  
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
