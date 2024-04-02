@@ -1,4 +1,4 @@
-## Hey there, I'm ꪖ​ꪀ𝘴ꫝ|邪惡的
+## Hey there, I'm αиѕн
 ⁪-<b> Just a begginner and custom rom maintainer only. 
 
 <h2 align="center"><img src="https://visitor-badge.laobi.icu/badge?page_id=EvilAnsh.EvilAnsh" alt="ꪖ​ꪀ𝘴ꫝ|邪惡的"/></h>  
