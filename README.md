@@ -3,11 +3,13 @@
 
 <h2 align="center"><img src="https://visitor-badge.laobi.icu/badge?page_id=EvilAnsh.EvilAnsh" alt="ꪖ​ꪀ𝘴ꫝ|邪惡的"/></h>  
 
-# 🤔 What I'm Maintaining :
-## Support group for **[Realme 6/6i(Indian)/6s/7/Narzo/Narzo 20 Pro/Narzo 30 4G](https://t.me/AnshBuilds)** 
-<div align="center">  
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div> 
+### ⚙️ &nbsp;Ansh's GitHub Analytics
+<p align="center">
+<a href="https://github.com/EvilAnsh">
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=EvilAnsh&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=EvilAnsh&layout=compact&langs_count=8&theme=nightowl"/>
+</a>
+</p>
 
 ## 📫 Get in touch, just press the icon below:
 [![Telegram](https://img.shields.io/static/v1?label=Telegram&message=chat&color=990bff)](https://t.me/EvilAnsh)
